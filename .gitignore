@@ -162,3 +162,7 @@ cython_debug/
 notebooks/*.nc
 notebooks/*.h5
 notebooks/*.csv
+
+# pixi environments
+.pixi
+*.egg-info
